@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "fir-43718",
+    "firebase": "fir-43718"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
